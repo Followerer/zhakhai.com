@@ -1,5 +1,77 @@
 
-
+ /******Midium Divice Layout: 992px.******/
+ @media only screen and (min-width: 992px) and (max-width: 1169px) {
+  .ScrollToTop {
+    bottom: 95px;
+  }
+    }
+  
+  @media only screen and (min-width: 1024px) and (max-width: 1279px) {
+  .character_image {
+    left: 2%;
+  }
+  .header-text h1 {
+    font-size: 52px;
+  }
+    }
+  
+    /******   Tablet Layout: 768px. ******/
+  @media only screen and (min-width: 768px) and (max-width: 991px) {
+  .container{
+    width:750px;
+    margin:0 auto;
+  }
+  .navigation-area .navbar-nav > li > a {
+    padding: 30px 10px;
+  }
+  .is-sticky .navigation-area .navbar-nav > li > a {
+    padding: 20px 10px;
+  }
+  .header_content {
+    padding: 200px 0;
+  }
+  .character_image {
+    height: 450px;
+    left: 1%;
+  }
+  .header-text h3 {
+    font-size: 30px;
+  }
+  .header-text h1 {
+    font-size: 39px;
+  }
+  .author-ifno .character-title {
+    padding-top: 50px;
+    padding-bottom: 0;
+    text-align: center;
+  }
+  
+  .author-ifno .character-title {
+    text-align: center;
+  }
+  .divider {
+    margin: 30px auto;
+  }
+  .section-title {
+    text-align: center;
+  }
+  .BioData table tr td {
+    padding-top: 30px;
+    padding-bottom: 0;
+  }
+  .BioData table tr td.padding-top{
+    padding-top: 0;
+  }
+  .ProgressBar h3, .ProgressBar .ProgressBarArea {
+    width: 100%;
+  }
+  .ProgressBarArea span {
+    font-size: 15px;
+    padding-bottom: 2px;
+    text-align: right;
+    display: block;
+  }
+}
 @media only screen and (min-width: 1440px) and (max-width: 1600px) {
 .character_image {
   left: 10%;
