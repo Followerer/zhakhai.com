@@ -289,8 +289,9 @@ Only Mobile Menu Supported
 .navigation-area .navbar-nav > li > a::after {
   height: 1px;
 }
-.character-name {
+.character-name h5{
   font-family: 'Open Sans Condensed', sans-serif;
+  font-size: 19px;
   text-align: center;
   padding: 20px  0;
 }
