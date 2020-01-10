@@ -105,7 +105,7 @@ body{
 /*Header*/
 #header{
   font-family: 'Open Sans Condensed', sans-serif;
-  background:url("../imagework/HeaderImage1.png") no-repeat scroll center bottom;
+  background:url("../imagework/HeaderImage1.jpg") no-repeat scroll center bottom;
   position: relative;
   z-index: 1;
   background-attachment: fixed;
@@ -606,7 +606,7 @@ li {
   z-index: -1;
 }
 #themeHeader {
-  background: url(../imagework/Parralax1.png) no-repeat scroll center center;
+  background: url(../imagework/Parralax1.jpg) no-repeat scroll center center;
   background-attachment: fixed;
   color: #fff;
   position: relative;
@@ -668,7 +668,7 @@ li {
   z-index:1;
 }
 #appearanceHeader {
-  background: url(../imagework/background1.png) no-repeat scroll center center;
+  background: url(../imagework/background1.jpg) no-repeat scroll center center;
   background-attachment: fixed;
   color: #fff;
   position: relative;
@@ -681,7 +681,7 @@ li {
   background: #962c12;
 }
 #oocHeader {
-  background: url(../imagework/oocHeader.png) no-repeat scroll center center;
+  background: url(../imagework/oocHeader.jpg) no-repeat scroll center center;
   background-attachment: fixed;
   color: #fff;
   position: relative;
